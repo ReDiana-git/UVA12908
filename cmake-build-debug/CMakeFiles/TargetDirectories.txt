@@ -1,0 +1,3 @@
+/Users/rediana/Project/UVA12908/cmake-build-debug/CMakeFiles/UVA12908.dir
+/Users/rediana/Project/UVA12908/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rediana/Project/UVA12908/cmake-build-debug/CMakeFiles/rebuild_cache.dir
